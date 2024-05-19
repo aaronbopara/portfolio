@@ -1,0 +1,10 @@
+voyage_number,ship_name,destination_port,voyage_earning
+1,MS SQL,CTW,16000.00
+1,SS Oracle,CTW,5500.00
+1,SS Postgres,STH,7000.00
+2,MS SQL,LA,19000.00
+2,SS Oracle,TYO,24000.00
+2,SS Postgres,TYO,50000.00
+3,SS Oracle,LA,20000.00
+3,SS Postgres,STH,22000.00
+4,SS Oracle,STH,19999.00

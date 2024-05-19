@@ -1,0 +1,4 @@
+ship_name,home_port,cost_per_mile
+MS SQL,LA,0.75
+SS Oracle,STH,1.00
+SS Postgres,TYO,2.00
